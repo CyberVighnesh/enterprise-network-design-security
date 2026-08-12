@@ -1,5 +1,7 @@
 # enterprise-network-design-security
-Enterprise network design and security simulation using Cisco Packet Tracer with VLAN segmentation, routing, firewall, wireless, server, CCTV and printer networks.
+
+This project focuses on the design and visualization of an enterprise IT support network using Cisco Packet Tracer. The topology was created to demonstrate how employees, servers, printers, CCTV devices and guest wireless users can be organized into separate logical network segments.
+
 # Enterprise Network Design & Security
 
 ## 📌 Project Overview
