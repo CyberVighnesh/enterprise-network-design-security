@@ -128,7 +128,7 @@ The core network contains the server infrastructure and provides connectivity be
 
 ## 📸 Network Topology
 
-![Enterprise Network Topology](screenshots/network-topology.png)
+![Enterprise Network Topology](https://github.com/CyberVighnesh/enterprise-network-design-security/blob/screenshots/network-toplology.png)
 
 ---
 
